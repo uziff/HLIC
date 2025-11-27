@@ -1,7 +1,7 @@
 # HLIC
-Vibe-coded side project (USING [SAID](https://said.haxs.dev) METHODS)
-A flask server that pretends to be a Vscode fork. 
-You can write code in natural language that gets interpreted by a locally running AI model, which then translates it to an actual programming language and runs it on your computer.
+Vibe-coded side project (USING [SAID](https://said.haxs.dev) METHODS). <br>
+A flask server that pretends to be a Vscode fork. <br>
+You can write code in natural language that gets interpreted by a locally running AI model, which then translates it to an actual programming language and runs it on your computer.<br>
 
 # How to Run
 1. Have python installed
@@ -14,9 +14,9 @@ You can write code in natural language that gets interpreted by a locally runnin
 
 
 # Issues
-If you don't have modules installed on your computer it will probably not work.
+If you don't have modules installed on your computer it will probably not work.<br>
 
-Don't run this in public for too long since if you can access the flask webserver from a different device someone can execute code on your computer simply by writing pseudo-code into the environment.
+Don't run this in public for too long since if you can access the flask webserver from a different device someone can execute code on your computer simply by writing pseudo-code into the environment.<br>
 
 # Contact me
 As always you can find me on https://haxs.dev/
